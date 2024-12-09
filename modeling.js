@@ -1,5 +1,3 @@
-// Ashton Johnson, CS535, Project #3
-//
 // This program shows a 3d rendering of a playground carousel with handlebars.
 // On the handlebars sit up to 12 letters that can be letters or spaces.
 // The letters will be capitalized when displayed
